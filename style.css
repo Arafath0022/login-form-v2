@@ -55,7 +55,7 @@ header{
     border: 1px solid silver;
     padding-left: 15px;
     outline: none;
-    font-size: 19px;
+    font-size: 17px;
 }
 
 .input-field label{
@@ -76,7 +76,7 @@ input:focus{
 
 input:focus ~ label,
 input:valid ~ label{
-    transform: translateY(-36px);
+    transform: translateY(-35px);
     background: #d9c4fc;
     font-size: 14px;
     color: #0088ff;
